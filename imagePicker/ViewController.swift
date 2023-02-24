@@ -11,13 +11,11 @@ class ViewController: UIViewController, UINavigationControllerDelegate {
     @IBOutlet weak var imageView: UIImageView!
     
     let imagePicker = UIImagePickerController()
-
     
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        imagePicker.delegate = self
-       
+        imagePicker.delegate = self 
     }
 
     @IBAction func btnClicked(_ sender: UIButton) {

@@ -20,6 +20,7 @@
 		258E34C67E1E0A55B01C4C7A /* Pods-imagePicker.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-imagePicker.debug.xcconfig"; path = "Target Support Files/Pods-imagePicker/Pods-imagePicker.debug.xcconfig"; sourceTree = "<group>"; };
 		8BC28D9DEBC32B903AD4D22B /* Pods-imagePicker.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-imagePicker.release.xcconfig"; path = "Target Support Files/Pods-imagePicker/Pods-imagePicker.release.xcconfig"; sourceTree = "<group>"; };
 		95EC0B048FEC266002028D32 /* Pods_imagePicker.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_imagePicker.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D49035529A88A3F00BE9616 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		9DFD069029879577005FC283 /* imagePicker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = imagePicker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DFD069329879577005FC283 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9DFD069529879577005FC283 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -48,7 +49,6 @@
 				258E34C67E1E0A55B01C4C7A /* Pods-imagePicker.debug.xcconfig */,
 				8BC28D9DEBC32B903AD4D22B /* Pods-imagePicker.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -63,6 +63,7 @@
 		9DFD068729879576005FC283 = {
 			isa = PBXGroup;
 			children = (
+				9D49035529A88A3F00BE9616 /* README.md */,
 				9DFD069229879577005FC283 /* imagePicker */,
 				9DFD069129879577005FC283 /* Products */,
 				3A0401FE9CD770394DCA9A4C /* Pods */,
